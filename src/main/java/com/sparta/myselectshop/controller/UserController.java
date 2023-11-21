@@ -2,7 +2,6 @@ package com.sparta.myselectshop.controller;
 
 import com.sparta.myselectshop.dto.SignupRequestDto;
 import com.sparta.myselectshop.dto.UserInfoDto;
-import com.sparta.myselectshop.entity.Folder;
 import com.sparta.myselectshop.entity.UserRoleEnum;
 import com.sparta.myselectshop.security.UserDetailsImpl;
 import com.sparta.myselectshop.service.FolderService;
